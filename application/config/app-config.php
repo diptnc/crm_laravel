@@ -17,7 +17,7 @@ defined('BASEPATH') or exit('No direct script access allowed');
 * environments.
 *
 */
-define('APP_BASE_URL', '[base_url]');
+define('APP_BASE_URL', 'https://crmlaravel-production.up.railway.app/');
 
 /*
 * --------------------------------------------------------------------------
@@ -32,25 +32,25 @@ define('APP_BASE_URL', '[base_url]');
 *
 * Auto added on install
 */
-define('APP_ENC_KEY', '[encryption_key]');
+define('APP_ENC_KEY', '34354354354');
 
 /**
  * Database Credentials
  * The hostname of your database server
  */
-define('APP_DB_HOSTNAME', '[db_hostname]');
+define('APP_DB_HOSTNAME', 'aws.connect.psdb.cloud');
 /**
  * The username used to connect to the database
  */
-define('APP_DB_USERNAME', '[db_username]');
+define('APP_DB_USERNAME', 'ketgd5xylg84ou6yu0n9');
 /**
  * The password used to connect to the database
  */
-define('APP_DB_PASSWORD', '[db_password]');
+define('APP_DB_PASSWORD', 'pscale_pw_H9TMW2VpCaWx1QAFnNuYGBwPVbmVS8ZgqgsPNZf6QnW');
 /**
  * The name of the database you want to connect to
  */
-define('APP_DB_NAME', '[db_name]');
+define('APP_DB_NAME', 'diptnc_main_database');
 
 /**
  * @since  2.3.0
